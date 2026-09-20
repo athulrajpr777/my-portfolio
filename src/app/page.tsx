@@ -1,3 +1,5 @@
+"use client";
+
 import LenisProvider from "@/components/LenisProvider";
 import CustomCursor from "@/components/CustomCursor";
 import CinematicVideo from "@/components/CinematicVideo";
